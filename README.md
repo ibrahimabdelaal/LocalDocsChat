@@ -1,8 +1,8 @@
-# Chat Locally with your docs using the LLM you want
+# Chat Locally with you Docs Using RAG
 
 ## Introduction
 
-This project leverages open-source models such as LangChain, Llama, and EmbeddingModel to create a flexible local chatting notebook. The models used in this project can be replaced with any open-source models, providing flexibility and adaptability.
+This project leverages open-source models such as LangChain, Llama, and EmbeddingModel to create a flexible local chatting notebook. The models used in this project can be replaced with any open-source models, providing flexibility and adaptability. Additionally, this project is built upon the **RAG (Retrieval-Augmented Generation) technique** which enhances the performance and efficiency of the models.
 
 ## Features
 
@@ -10,19 +10,11 @@ This project leverages open-source models such as LangChain, Llama, and Embeddin
 - **LangChain and Llama**: These models are used to facilitate the creation of the local chatting notebook.
 - **EmbeddingModel**: This model is used to create embeddings for the data.
 - **ChromaDB**: Used for efficient data storage and retrieval.
+- **RAG Technique**: The Retrieval-Augmented Generation technique is used to enhance the performance and efficiency of the models.
 
-## Installation
-
-Provide steps on how to install your project.
 
 ## Usage
 
-Provide examples and explanations on how to use your project.
+The notebook provide step by step guide on how to create your own local chat docs.
+you can change the embedding  and LLM models to the one you like from hugging face.
 
-## Contributing
-
-Provide instructions on how others can contribute to your project.
-
-## License
-
-Include information about the license.
